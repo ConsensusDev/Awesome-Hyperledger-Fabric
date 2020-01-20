@@ -1,4 +1,4 @@
-# Awsome-Hyperledger-Fabric
+# Awesome-Hyperledger-Fabric
 超级账本 Fabric 技术开发资源列表  
 A Curated List of Awesome Hyperledger Fabric Resources
 
