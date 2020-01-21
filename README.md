@@ -58,8 +58,8 @@ A Curated List of Awesome Hyperledger Fabric Resources
 # 文档
 
 ## Fabric开发文档
-* [官方开发文档中文索引](https://github.com/ConsensusDev/Hyperledger-Fabric-Docs-CN-Index)
 * [官方开发文档](https://hyperledger-fabric.readthedocs.io/https://hyperledger-fabric.readthedocs.io/) -  官方开发文档网站，包括项目介绍、网络搭建、智能合约开发以及 dapp 开发等资源【英文】
+* [官方开发文档中文索引](https://github.com/ConsensusDev/Awesome-Hyperledger-Fabric/blob/master/Hyperledger_Fabric_Docs_CN_Index.md)
 * [官方开发文档中文社区翻译](https://hyperledgercn.github.io/hyperledgerDocs/)
 
 ## SDK开发文档
