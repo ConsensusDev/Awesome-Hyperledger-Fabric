@@ -17,6 +17,7 @@ A Curated List of Awesome Hyperledger Fabric Resources
 - [视频](#视频)
 - [案例](#案例)
 - [书籍](#书籍)
+- [人物](#人物)
 - [社区](#社区)
 - [其他](#其他)
 
@@ -42,6 +43,7 @@ A Curated List of Awesome Hyperledger Fabric Resources
 * [Java](https://github.com/hyperledger/fabric-sdk-java) - 基于Java的链访问SDK【英文】
 * [Node.js](https://github.com/hyperledger/fabric-sdk-node) - node.js的SDK【英文】
 * [Go](https://github.com/hyperledger/fabric-sdk-go) - GO语言的链访问SDK【英文】
+* [Python](https://github.com/hyperledger/fabric-sdk-py) - Python语言的链访问SDK【英文】
 
 ## 入门
 * [基础概念](https://hyperledger-fabric.readthedocs.io/en/latest/key_concepts.html) - 定义了基础组件和关键概念，如区块链网络、身份、联盟成员、管理策略、chaincode 智能合约、排序服务、私有数据和通道等【英文】
@@ -67,6 +69,7 @@ A Curated List of Awesome Hyperledger Fabric Resources
 * [nodejs SDK 开发文档](https://hyperledger.github.io/fabric-sdk-node/release-1.4/index.html) - nodejs sdk 官方开发文档【英文】
 * [java SDK 开发文档](https://hyperledger.github.io/fabric-gateway-java/) - nodejs sdk 官方开发文档【英文】
 * [go SDK 开发文档](https://github.com/hyperledger/fabric-sdk-go) - nodejs sdk 官方开发文档【英文】
+* [python SDK 开发文档](https://github.com/hyperledger/fabric-sdk-py/tree/master/docs) - python sdk 官方开发文档【英文】
 
 # 文章
 
@@ -85,6 +88,10 @@ A Curated List of Awesome Hyperledger Fabric Resources
 
 # 书籍
 * [《区块链原理、设计与应用》](https://item.jd.com/12159265.html) - 由超级账本 Fabric 核心开发者杨保华等撰写的 Fabric 架构设计与应用开发书籍
+
+# 人物
+
+* [杨保华](http://yeasy.github.io/) - 超级账本全球技术委员会委员、Fabric 核心开发人员
 
 # 社区
 * [StackOverflow](https://stackoverflow.com/questions/tagged/hyperledger-fabric)
