@@ -16,6 +16,7 @@ A Curated List of Awesome Hyperledger Fabric Resources
 - [文章](#文章)
 - [视频](#视频)
 - [案例](#案例)
+- [书籍](#书籍)
 - [社区](#社区)
 - [其他](#其他)
 
@@ -67,8 +68,12 @@ A Curated List of Awesome Hyperledger Fabric Resources
 * [java SDK 开发文档](https://hyperledger.github.io/fabric-gateway-java/) - nodejs sdk 官方开发文档【英文】
 * [go SDK 开发文档](https://github.com/hyperledger/fabric-sdk-go) - nodejs sdk 官方开发文档【英文】
 
-## 文章
-* [我们放弃以太坊选择了超级账本](https://mp.weixin.qq.com/s?__biz=MzU2ODQzNzAyNQ==&mid=2247485060&idx=1&sn=397be46bb07c060ce63f0d83183a69d8&) - OpenGift 团队探索了基于超级账本 Fabric 区块链的生产实践，并对以太坊和超级账本 Fabric 进行了技术选型上的比较分析【译文】
+# 文章
+
+## 技术选型
+* [我们放弃以太坊选择了超级账本](https://mp.weixin.qq.com/s?__biz=MzU2ODQzNzAyNQ==&mid=2247485060&idx=1&sn=397be46bb07c060ce63f0d83183a69d8&) - OpenGift 团队探索了基于超级账本 Fabric 区块链的生产实践，并对以太坊和超级账本 Fabric 进行了技术选型上的比较分析
+
+## 
 
 # 视频
 * [Youtbue 官方地址](https://www.youtube.com/channel/UCCFdgCWH_1vCndMPVqQlwZw/videos) - Fabric 官方在 Youtube 上发布的介绍视频【英文】
@@ -77,6 +82,9 @@ A Curated List of Awesome Hyperledger Fabric Resources
 
 # 案例
 * [应用案例集合](https://www.hyperledger.org/resources/publications#case-studies) - 官方提供的案例集合 【英文】
+
+# 书籍
+* [《区块链原理、设计与应用》](https://item.jd.com/12159265.html) - 由超级账本 Fabric 核心开发者杨保华等撰写的 Fabric 架构设计与应用开发书籍
 
 # 社区
 * [StackOverflow](https://stackoverflow.com/questions/tagged/hyperledger-fabric)
