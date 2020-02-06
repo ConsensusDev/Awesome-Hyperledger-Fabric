@@ -38,6 +38,9 @@ A Curated List of Awesome Hyperledger Fabric Resources
 * [区块链 BaaS](https://github.com/hyperledger/cello) - 基于 python 和 nodejs 的 fabric 网络运维管理平台，支持  docker swam、k8s、物理机、虚拟云部署，可快速搭建一个 BaaS 平台【英文】
 * [性能测试工具](https://github.com/hyperledger/caliper) - 基于 nodejs 的区块链基准测试工具，支持多个区块链（如 fabric、fisco/bcos 和以太坊等）的性能测试【英文】
 
+## 第三方脚手架
+* [Convector](https://github.com/hyperledger-labs/convector) - 类似 Composer 脚手架工具，为 hyperledger fabric 提供开发工具【英文】
+
 # 开发
 ## SDK
 * [Java](https://github.com/hyperledger/fabric-sdk-java) - 基于Java的链访问SDK【英文】
