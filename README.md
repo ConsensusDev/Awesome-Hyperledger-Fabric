@@ -76,10 +76,10 @@ A Curated List of Awesome Hyperledger Fabric Resources
 * [我们放弃以太坊选择了超级账本](https://mp.weixin.qq.com/s?__biz=MzU2ODQzNzAyNQ==&mid=2247485060&idx=1&sn=397be46bb07c060ce63f0d83183a69d8&) - OpenGift 团队探索了基于超级账本 Fabric 区块链的生产实践，并对以太坊和超级账本 Fabric 进行了技术选型上的比较分析
 * [Hyperledger Fabric、FISCO BCOS 等五大联盟链横向对比](https://www.lieyunwang.com/archives/448365) - 本文选择了Hyperledger Fabric、FISCO BCOS、微软的Coco、企业以太坊联盟（EEA）及R3的Corda这五个具有一定影响力的联盟链，拟从设计理念、生态、效率、扩展性、节点管理与权限管理、智能合约、部署与运维友好性、隐私保护八个方面进行比对，以供各位开发者、爱好者参考
 
-## 实战教程
+## 开发教程
 
 ### 供应链
-* [使用 Hyperledger Fabric 来搭建区块链供应链追溯](https://coding-bootcamps.com/ultimate-guide-for-building-a-blockchain-supply-chain-using-hyperledger-fabric-and-composer.html) 
+* [使用 Hyperledger Fabric 来搭建区块链供应链追溯](https://coding-bootcamps.com/ultimate-guide-for-building-a-blockchain-supply-chain-using-hyperledger-fabric-and-composer.html) - 讲解了 Hyperledger Fabric 开发区块链供应链追溯，包括基本概念介绍、智能合约的设计编写、业务网络结构的规划和部署【英文】
 
 
 # 视频
