@@ -90,6 +90,7 @@ A Curated List of Awesome Hyperledger Fabric Resources
 # 书籍
 * [《区块链原理、设计与应用》](https://item.jd.com/12159265.html) - 由超级账本 Fabric 核心开发者杨保华等撰写的 Fabric 架构设计与应用开发书籍
 * [《HyperLedger Fabric开发实战：快速掌握区块链技术》](https://item.jd.com/12381034.html) - 由浅入深讲述 Fabric 架构原理以及应用开发
+* [《Hyperledger Cookbook》](https://www.amazon.com/Hyperledger-Cookbook-implementing-blockchain-frameworks-ebook/dp/B07Q4DD8TN) - 全面介绍了 Hyperledger 区块链项目集合, 包括 Fabric, Sawtooth, Indy, Burrow, 和 Iroha; 以及 Composer, Explorer 和 Caliper 等工具【英文】
 
 # 人物
 
