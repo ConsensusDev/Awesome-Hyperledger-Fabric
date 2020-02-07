@@ -23,6 +23,7 @@ Hyperledger Fabric 官方文档中文索引
     - [FabricCA](#FabricCA)
     - [共识出块](#共识出块)
     - [运维监控](#运维监控)
+    - [命令参考](#命令参考)
     - [其他](#其他)
 - [参考资料](#参考资料)
     - [开发语言](#开发语言)
@@ -125,6 +126,9 @@ Hyperledger Fabric 官方文档中文索引
 * [运维服务](https://hyperledger-fabric.readthedocs.io/en/latest/operations_service.html) - Fabric中的 orderer 和 peer 组件中提供了一个专门用于运维监控的 HTTP RESTful API 服务，这里详细介绍了运维服务的配置、日志管理、健康检查以及监控的指标【英文】
 * [运维监控指标参考](https://hyperledger-fabric.readthedocs.io/en/latest/metrics_reference.html) - 详细描述了运维服务对 Prometheus 和 StatsD 工具提供的监控指标参数【英文】
 * [日志控制 ](https://hyperledger-fabric.readthedocs.io/en/latest/logging-control.html)- 日志级别以及日志格式介绍【英文】
+
+## 命令参考
+* [常用命令参考](https://hyperledger-fabric.readthedocs.io/en/latest/command_ref.html) - cryptogen、configtx 和 peer 以及服务发现和 fabric ca 等工具命令参考手册
 
 ## 其他
 * [如何进行版本升级](https://hyperledger-fabric.readthedocs.io/en/latest/upgrade.html) - 如何将 Fabric 程序升级到高版本【英文】
