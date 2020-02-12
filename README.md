@@ -56,9 +56,16 @@ A Curated List of Awesome Hyperledger Fabric Resources
 * [chaincode 开发者手册](https://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html) - 结合官方提供的简单资产管理智能合约实例，向开发者介绍了chaincode 的开发、调试、安装、部署、调用以及权限控制等【英文】
 
 ## 示例
+
+### 官方示例
 * [fabric-samples](https://github.com/hyperledger/fabric-samples) - fabric 官方提供的包括网络搭建、车辆管理、商业票据等示例代码【英文】
-* [hlf1.4-supply-chain](https://github.com/ialberquilla/hlf1.4-supply-chain) - 基于 fabric 1.4 的供应链概念性验证示例【英文】
+
+### Token 
 * [Kuma token](https://github.com/Kunstmaan/hyperledger-fabric-kuma-token-example) - 基于 fabric 发布简单的 token 示例【英文】
+
+### 供应链
+* [hlf1.4-supply-chain](https://github.com/ialberquilla/hlf1.4-supply-chain) - 基于 fabric 1.4 的供应链概念性验证示例【英文】
+* [financial-platform-with-blockchain](https://github.com/callmewindow/financial-platform-with-blockchain) - 基于区块链的供应链金融平台
 
 # 文档
 
