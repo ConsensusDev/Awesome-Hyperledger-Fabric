@@ -71,8 +71,8 @@ A Curated List of Awesome Hyperledger Fabric Resources
 
 ## Fabric开发文档
 * [官方开发文档](https://hyperledger-fabric.readthedocs.io/https://hyperledger-fabric.readthedocs.io/) -  官方开发文档网站，包括项目介绍、网络搭建、智能合约开发以及 dapp 开发等资源【英文】
-* [官方开发文档中文索引](https://github.com/ConsensusDev/Awesome-Hyperledger-Fabric/blob/master/Hyperledger_Fabric_Docs_CN_Index.md)
-* [官方开发文档中文社区翻译](https://hyperledgercn.github.io/hyperledgerDocs/)
+* [官方开发文档中文索引](https://github.com/ConsensusDev/Awesome-Hyperledger-Fabric/blob/master/Hyperledger_Fabric_Docs_CN_Index.md) - ConsensusDev 提供的官方开发文档中文索引
+* [官方开发文档中文社区翻译](https://hyperledgercn.github.io/hyperledgerDocs/) - Hyperledger Fabric 中国开发社区提供的官方开发文档翻译，版本更新有滞后，且不是很完整
 
 ## SDK开发文档
 * [nodejs SDK 开发文档](https://hyperledger.github.io/fabric-sdk-node/release-1.4/index.html) - nodejs sdk 官方开发文档【英文】
