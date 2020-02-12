@@ -65,7 +65,7 @@ A Curated List of Awesome Hyperledger Fabric Resources
 
 ### 供应链
 * [hlf1.4-supply-chain](https://github.com/ialberquilla/hlf1.4-supply-chain) - 基于 fabric 1.4 的供应链概念性验证示例【英文】
-* [financial-platform-with-blockchain](https://github.com/callmewindow/financial-platform-with-blockchain) - 基于区块链的供应链金融平台
+* [financial-platform-with-blockchain](https://github.com/callmewindow/financial-platform-with-blockchain) - 北航学生基于 fabric 区块链的供应链金融平台课程实践
 
 # 文档
 
